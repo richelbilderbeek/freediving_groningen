@@ -9,12 +9,17 @@ My notes for freediving in Groningen.
 
 ## Natural lakes
 
- * Woldmeer
+ * Woldmeer, Groningen [map](https://www.openstreetmap.org/relation/5924692)
+ * Kreidesee Hemmoor, Germany [map](https://www.openstreetmap.org/way/4733521)
 
 ## Diving tanks
 
  * Diveworld, Enschede
  * North-Holland
+
+## Swimming pools
+
+ * Scharlakenhof Haren, [prices](scharlakenhof.xlsx)
 
 ## Shops
 
